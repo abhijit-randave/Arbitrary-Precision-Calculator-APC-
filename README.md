@@ -1,0 +1,2 @@
+# Arbitrary-Precision-Calculator-APC-
+This program implements arbitrary precision calculator that can perform addition, subtraction, multiplication, &amp; division on large integers represented as doubly linked lists. The program takes 2 operands &amp; operator as command-line arguments, processes the inputs, &amp; outputs  result while handling edge cases such as negative numbers &amp; leading zeros.
